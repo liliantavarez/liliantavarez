@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, meu nome é Lilian Carvalho</h1>
-<h3 align="center">Bacharelando em Ciência da Computação na UEPB</h3>
+<h1 align="center">Hi 👋, I am Lilian Carvalho</h1>
+<h3 align="center">Computer Science Student at UEPB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liliantavarez&label=Profile%20views&color=0e75b6&style=flat" alt="liliantavarez"> </p>
 
@@ -18,8 +18,27 @@
 </a>
   
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages:</h3>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="https://i.ibb.co/zh7Xy0T/icons8-c-programming-50.png" alt="icons8-c-programming-48" width="40" height="40"> 
+</a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank"> 
+<img src="https://i.ibb.co/L02DMnN/icons8-c-50-2.png" alt="icons8-c-50" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank"> 
+<img src="https://i.ibb.co/718khmZ/icons8-java-50-5.png" alt="icons8-java-50" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://i.ibb.co/9v4Z00c/icons8-css3-50-1.png" alt="icons8-css3-50" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://i.ibb.co/qCCv8Bq/icons8-html-5-50-1.png" alt="icons8-html-5-50" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://i.ibb.co/yNNpCRj/icons8-javascript-logo-50.png" alt="icons8-javascript-logo-50" width="40" height="40"/> 
+</a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&show_icons=true&locale=en&layout=default&langs_count=8&theme=midnight-purple" alt="liliantavarez" /></p>
 
