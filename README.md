@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Lilian Carvalho</h1>
+<h1 align="center">Hi 👋, I'm Lilian!</h1>
 <h3 align="center">Computer Science Student at UEPB</h3>
 
 <p align="left"> 
