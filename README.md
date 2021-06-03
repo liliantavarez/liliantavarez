@@ -8,7 +8,7 @@
 <a href="https://codepen.io/liliantavarez" target="_blank">
 <img align="center" src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Codepen-512.png" alt="https://codepen.io/liliantavarez" height="40" width="40" /></a>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lilian-carvalho-846ab2187/" target="blank">
+<a href="https://www.linkedin.com/in/lilian-carvalho-846ab2187/" target="blank">
 <img align="center" src="https://cdn3.iconfinder.com/data/icons/address-book-providers-in-black-white/512/linkedin-512.png" alt="https://www.linkedin.com/in/lilian-carvalho-846ab2187/"height="40" width="40" /></a>
 
 <a href = "mailto: liliancarvalhotavares@gmail.com" target="_blank">
