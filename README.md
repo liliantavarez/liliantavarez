@@ -31,7 +31,7 @@
   </a> 
   
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://i.ibb.co/718khmZ/icons8-java-50-5.png" alt="icons8-java-50" width="40" height="40"> 
+    <img src="https://i.ibb.co/P9vP0RM/icons8-logo-java-coffee-cup-50.png" alt="icons8-java-50" width="40" height="40"> 
   </a> 
  
   <a href="https://www.w3schools.com/css/" target="_blank"> 
