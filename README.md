@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lilian!</h1>
+<div display="flex" align="right">
+<a align="right" href="https://picasion.com/"><img src="https://i.picasion.com/pic91/bd896ae73c170b3c570d74b572fc58c3.gif" width="100" height="100" border="0"></a>
+<h1 align="center">Hi 👋, I'm Lilian!</h1> 
+</div>
+
+
 <h3 align="center">Computer Science Student at UEPB</h3>
 
 <p align="left"> 
@@ -48,12 +53,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&show_icons=true&locale=en&layout=default&langs_count=8&theme=midnight-purple&title_color=ffffff" alt="liliantavarez">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&show_icons=true&locale=en&layout=default&langs_count=8&theme=midnight-purple" alt="liliantavarez">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=midnight-purple&show_icons=tru">
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=midnight-purple&title_color=ffffff&icon_color=ffffff&show_icons=true&hide=stars,prs,issues,contribs"alt="liliantavarez">
-</p>
-  
   ![Snake animation](https://github.com/liliantavarez/liliantavarez/blob/output/github-contribution-grid-snake.svg)
 
