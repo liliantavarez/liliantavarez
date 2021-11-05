@@ -21,9 +21,14 @@
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/LilianTavarez">
   </a>
 
-  <a href = "mailto: liliancarvalhotavares@gmail.com" target="_blank">
+  <a href="mailto: liliancarvalhotavares@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
+  
+  <a href="https://api.whatsapp.com/send?phone=5583999647584" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>  
+  
 </p>
 
 <h3 align="left">👩‍💻 Languages</h3>
