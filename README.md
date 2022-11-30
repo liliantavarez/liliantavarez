@@ -6,7 +6,7 @@
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liliantavarez&row=1&theme=onedark&margin-w=15" alt="liliantavarez" /></a> </p>
 
 
-- 🔭 No momento estou estagiando como pessoa desenvolvedora softwares na @DBServer 💙
+- 🔭 No momento estou estagiando como pessoa desenvolvedora de softwares na [@DBServer](https://db.tec.br/)💙
 - 🌱 Estudei desenvolvimento full stack no curso: [ProgramadorBR](https://github.com/liliantavarez/ProgramadorBR)
 
 <div>
