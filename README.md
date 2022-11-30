@@ -6,8 +6,8 @@
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liliantavarez&row=1&theme=onedark&margin-w=15" alt="liliantavarez" /></a> </p>
 
 
-- 🔭 No momento estou trabalhando no projeto: [Card-Gamer](https://github.com/liliantavarez/card-game)
-- 🌱 Estou aprendendo desenvolvimento full stack no curso: [ProgramadorBR](https://github.com/liliantavarez/ProgramadorBR)
+- 🔭 No momento estou estagiando como pessoa desenvolvedora softwares na @DBServer 💙
+- 🌱 Estudei desenvolvimento full stack no curso: [ProgramadorBR](https://github.com/liliantavarez/ProgramadorBR)
 
 <div>
   
