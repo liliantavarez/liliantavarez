@@ -113,12 +113,14 @@
 
 ##
 
-<div>
+<div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&show_icons=true&locale=en&layout=default&langs_count=8&theme=midnight-purple" alt="liliantavarez">
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=liliantavarez&show_icons=true&locale=en&layout=default&langs_count=8&theme=midnight-purple" alt="liliantavarez">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=midnight-purple&show_icons=tru">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=liliantavarez&theme=midnight-purple&show_icons=tru">
 
 </div>
+<div align="center">
 
   ![Snake animation](https://github.com/liliantavarez/liliantavarez/blob/output/github-contribution-grid-snake.svg)
+  </div>
