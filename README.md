@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋! Meu nome é Lilian Carvalho!</h2>
+<h2 align="center">Olá👋! Meu nome é Lilian Carvalho!</h2>
 
 ###
 
