@@ -1,6 +1,11 @@
-<h2 align="center">Olá👋! Meu nome é Lilian Carvalho!</h2>
+<h1 align="center">Olá👋, eu sou Lilian Carvalho Tavares</h1>
+<h3 align="center">Estudante de Ciências da Computação com foco no desenvolvimento web</h3>
 
-###
+<h4 align="center"> 
+  
+🔭 Atualmente estou no <a href="https://start.db.tec.br/" target="_blank"> programa de estágio StartDB 💙 </a>
+
+</h4>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&username=liliantavarez" height="150" alt="stats graph"  />
@@ -51,13 +56,10 @@
 ###
 
 <br clear="both">
-
+<div align="center">
+  
 ![snake gif](https://github.com/liliantavarez/liliantavarez/blob/output/github-contribution-grid-snake.svg)
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/liliantavarez/count.svg?"  />
-</div>
-
-###
+<img src="https://profile-counter.glitch.me/liliantavarez/count.svg?"  />
+  
+</div
