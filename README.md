@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Olá 👋🏽<h1>
 <h3>Sou estudante de Ciências da Computação com foco no desenvolvimento web</h3>
-<h3>🔭 Atualmente estou no programa de <a href="https://start.db.tec.br/"> estágio StartDB</a>💙</h3>
+<h3>🔭 Atualmente atuando como desenvolvedora full stack com as tecnologias react e spring boot</h3>
 </div>
   
 ### 🌐 Socials:
