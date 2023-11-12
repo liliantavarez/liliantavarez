@@ -44,9 +44,10 @@
 <div align="center">
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut&langs_count=4&hide=css,html,EJS,SCSS,Handlebars)
+![](https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=liliantavarez&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
