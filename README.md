@@ -87,7 +87,6 @@
 #### 💻 FRAMEWORKS, PLATFORMS & LIBRARIES:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
@@ -108,16 +107,13 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut&langs_count=4&hide=css,html,EJS,SCSS,Handlebars)
-![](https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liliantavarez&theme=github_dark" height="180em" />
 
 <div align="center">
 <a href="https://github.com/liliantavarez">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliantavarez&theme=transparent" height="180em" />
-
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliantavarez&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliantavarez&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliantavarez&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liliantavarez&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liliantavarez&theme=github_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liliantavarez&theme=github_dark" height="180em" />
 </div>
   
 </div>
