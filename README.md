@@ -30,8 +30,10 @@
 
 ## My Skill Set  
 
-<table><tr><td valign="top" width="33%">
-
+<table>
+<tr>
+<td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -43,7 +45,10 @@
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
-</td><td valign="top" width="33%">
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
@@ -54,27 +59,64 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
 </div>
+</td>
 
-</td><td valign="top" width="33%">
+<td valign="top" width="33%">
   
 ### DevOps  
 
 <div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>  
+</td>
+</tr>
+</table>  
 
-### Database  
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+  
+### Quality  
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
+<a href="https://junit.org/junit5/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/devicon/junit-wordmark.svg" alt="Junit5" height="50" /></a>  
+<a href="https://jestjs.io/pt-BR/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos/jest.svg" alt="Jest" height="50" /></a>  
+<a href="https://rest-assured.io/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="RestAssured" height="50" /></a>  
+<a href="https://wiremock.org/" target="_blank"><img style="margin: 10px" src="https://testcontainers.com/images/modules/wiremock-mark.svg" alt="WireMock" height="50" /></a>  
+<a href="https://site.mockito.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/mockito/mockito/master/src/javadoc/org/mockito/logo.png" alt="Mockito" height="50" /></a>  
+<a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos/testing-library.svg" alt="Testing Library" height="50" /></a>  
+<a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons/selenium.svg" alt="Selenium" height="50" /></a>  
+
 </div>
 
-</td></tr></table>  
+</td>
+
+<td valign="top" width="33%">
+
+### Versioning  
+<div align="center">  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons/github-light.svg" alt="GitHub" height="50" /></a>  
+</div>
+</td>
+
+<td valign="top" width="33%">
+  
+### Database  
+<div align="center">  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://flywaydb.org/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/simple-icons/flyway.svg" alt="Flyway" height="50" /></a>  
+</div>
+</div>  
+</td>
+</tr>
+</table>  
+
 
 <br/>  
 
