@@ -1,8 +1,3 @@
-![Static Badge](https://img.shields.io/badge/junit?style=flat&logo=junit5&logoColor=%2325A162&logoSize=auto)
-![Endpoint Badge](https://img.shields.io/endpoint?style=flat&logo=junit5)
-![JavaScript](https://img.shields.io/badge/mockito-%6C9D25.svg?style=flat&logo=mockito&logoColor=%6C9D25) 
-
-
 <div align="center">
   
 # Olá 👋🏽
