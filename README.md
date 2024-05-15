@@ -1,15 +1,4 @@
 <div align="center">
-  
-# Olá 👋🏽
-  
-### Sou estudante de Ciências da Computação com foco no desenvolvimento web
-### 🔭 Atualmente atuo como desenvolvedora full stack com as tecnologias react com typescript e spring boot com java
- 
-</div>
-
-
-<br/>
-
 # 💻 Tech Stack:
 
 <table>
