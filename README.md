@@ -104,7 +104,6 @@
 
 ## 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="height: 180px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="height: 180px;">
 </div>
 
