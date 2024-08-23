@@ -107,5 +107,3 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliantavarez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="height: 180px;">
 </div>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=liliantavarez&theme=dark&hide_border=true)
