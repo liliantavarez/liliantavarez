@@ -108,7 +108,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=liliantavarez&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&hide=html,css&order=2&custom_title=" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&hide=html,css&order=2" height="130" alt="languages graph"  />
 </div>
 
 <img src="https://raw.githubusercontent.com/liliantavarez/liliantavarez/output/snake.svg" alt="Snake animation" />
