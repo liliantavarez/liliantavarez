@@ -1,6 +1,15 @@
 <h2> 👋 Olá! Eu sou Lilian Carvalho Tavares </h2>
 
+<table>
+    <tr>
+      <td width="50%">
 <p>Sou uma desenvolvedora fullstack apaixonada por tecnologia e inovação. Com experiência em frontend e backend, trabalho com tecnologias como Java, Spring Boot, TypeScript, React, entre outras. Tenho um compromisso contínuo com o aprendizado e a aplicação das melhores práticas em desenvolvimento de software, sempre buscando entregar soluções eficientes e de alta qualidade.</p>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=en&hide_title=true&layout=compact&card_width=460&langs_count=3&theme=dark&hide_border=true&order=2&hide=html,css" alt="languages graph"  />
+      </td>
+    </tr>
+</table>
 
 <h2>Minha Stack Tecnológica</h2>
 <p>Como desenvolvedora fullstack, tenho experiência em diversas tecnologias, incluindo Java, Spring Boot, TypeScript e React. Abaixo estão as principais ferramentas e tecnologias que utilizo no meu trabalho.</p>
@@ -8,7 +17,7 @@
 <table>
     <tr>
       <td width="33%">
-        <h3>Frontend</h3>
+        <h3 align="center">Frontend</h3>
         <div align="left">
           <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -24,7 +33,7 @@
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>Backend</h3>
+        <h3 align="center">Backend</h3>
         <div align="left">
           <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
@@ -35,7 +44,7 @@
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>Quality</h3>
+        <h3 align="center">Quality</h3>
         <div align="left">
           <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" alt="Jest" /></a>
           <a href="https://testing-library.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white" alt="Testing Library" /></a>
@@ -49,7 +58,7 @@
     </tr>
     <tr>
       <td valign="top" width="33%">
-        <h3>Versioning</h3>
+        <h3 align="center">Versioning</h3>
         <div align="left">
           <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" /></a>
           <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -57,7 +66,7 @@
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>Database</h3>
+        <h3 align="center">Database</h3>
         <div align="left">
           <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="Postgres" /></a>
           <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
@@ -65,7 +74,7 @@
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>DevOps</h3>
+        <h3 align="center">DevOps</h3>
         <div align="left">
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker" /></a>
           <a href="https://azure.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" /></a>
@@ -74,7 +83,7 @@
     </tr>
     <tr>
       <td valign="top" width="33%">
-        <h3>Hosting/SaaS</h3>
+        <h3 align="center">Hosting/SaaS</h3>
         <div align="left">
             <a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" alt="Heroku" /></a>
             <a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" /></a>
@@ -83,7 +92,7 @@
         </div>
       </td>    
       <td valign="top" width="33%">
-        <h3>Frameworks & Libraries</h3>
+        <h3 align="center">Frameworks & Libraries</h3>
         <div align="left">
             <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" alt="jQuery" /></a>
             <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" alt="NPM" /></a>
@@ -94,7 +103,7 @@
         </div>
       </td>   
       <td valign="top" width="33%">
-        <h3>Others</h3>
+        <h3 align="center">Others</h3>
         <div align="left">
             <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" /></a>
             <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva" /></a>
@@ -108,21 +117,3 @@
       </td>  
     </tr>    
 </table>
-
-<h2>Minhas Estatísticas no GitHub</h2>
-<p>Meu GitHub reflete meu compromisso com o aprendizado contínuo e a aplicação de boas práticas. Abaixo estão minhas estatísticas de contribuições e as linguagens com que mais trabalho.</p>
-
-<table>
-    <tr>
-      <td valign="top" width="33%">
-        <img src="https://streak-stats.demolab.com?user=liliantavarez&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&hide_border=true" alt="streak graph"  />
-      </td>
-      <td valign="top" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&show_icons=true&theme=dark&hide_border=true&icon_color=DADADA&hide=contribs" alt="streak graph"  />
-      </td>
-      <td valign="top" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=2&hide=html,css" alt="languages graph"  />
-      </td>
-    </tr>
-</table>
-
