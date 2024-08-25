@@ -115,13 +115,13 @@
 <table>
     <tr>
       <td valign="top" width="33%">
-        <img src="https://streak-stats.demolab.com?user=liliantavarez&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&hide_border=true" height="130" alt="streak graph"  />
+        <img src="https://streak-stats.demolab.com?user=liliantavarez&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&hide_border=true" alt="streak graph"  />
       </td>
       <td valign="top" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&show_icons=true&theme=dark&hide_border=true&icon_color=DADADA&hide=contribs" height="150" alt="streak graph"  />
+        <img src="https://github-readme-stats.vercel.app/api?username=liliantavarez&show_icons=true&theme=dark&hide_border=true&icon_color=DADADA&hide=contribs" alt="streak graph"  />
       </td>
       <td valign="top" width="33%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=2&hide=html,css" height="150" alt="languages graph"  />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=true&order=2&hide=html,css" alt="languages graph"  />
       </td>
     </tr>
 </table>
