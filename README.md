@@ -123,3 +123,14 @@
       </td>  
     </tr>    
 </table>
+
+## 📫 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/liliantavarez/)
+- 📧 Email: [liliancarvalhotavares@email.com](mailto:liliancarvalhotavares@email.com)
+
+---
+
+<p align="center">
+  🚀 Em constante evolução, sempre em busca de novos desafios e aprendizados!
+</p>
