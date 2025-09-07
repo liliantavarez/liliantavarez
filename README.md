@@ -1,9 +1,16 @@
-<h2> 👋 Olá! Eu sou Lilian Carvalho Tavares </h2>
+<h2 align="center"> 👋 Olá! Eu sou Lilian Carvalho Tavares </h2>
+
+<p align="center">
+  Desenvolvedora backend com sólida experiência fullstack, apaixonada por construir soluções eficientes, escaláveis e de alta qualidade.
+</p>
 
 <table>
     <tr>
       <td width="50%">
-<p>Sou uma desenvolvedora fullstack apaixonada por tecnologia e inovação. Com experiência em frontend e backend, trabalho com tecnologias como Java, Spring Boot, TypeScript, React, entre outras. Tenho um compromisso contínuo com o aprendizado e a aplicação das melhores práticas em desenvolvimento de software, sempre buscando entregar soluções eficientes e de alta qualidade.</p>
+    <p align="left">
+        Com uma base técnica sólida em desenvolvimento fullstack, atualmente foco minha atuação na construção de aplicações robustas no backend, utilizando tecnologias como <strong>Java</strong> e <strong>Spring Boot</strong>. Tenho experiência prática em todo o ciclo de desenvolvimento de software — da modelagem de APIs ao deploy e manutenção em produção.
+        Além do backend, também possuo vivência significativa com ferramentas e frameworks do frontend moderno, o que me permite ter uma visão completa das aplicações e colaborar melhor com diferentes times.
+      </p>
       </td>
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=en&hide_title=true&layout=compact&card_width=460&langs_count=3&theme=dark&hide_border=true&order=2&hide=html,css" alt="languages graph"  />
@@ -16,6 +23,16 @@
 
 <table>
     <tr>
+     <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="left">
+          <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
+          <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" /></a>
+          <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+          <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+          <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" /></a>
+        </div>
+      </td>
       <td width="33%">
         <h3 align="center">Frontend</h3>
         <div align="left">
@@ -30,17 +47,6 @@
           <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components" /></a>
           <a href="https://ant.design/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white" alt="Ant-Design" /></a>
           <a href="https://openjfx.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white" alt="JavaFX" /></a>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="left">
-          <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-          <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS" /></a>
-          <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
-          <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" /></a>
-          <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white" alt="Spring" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
