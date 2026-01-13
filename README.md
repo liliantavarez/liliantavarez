@@ -1,20 +1,10 @@
 <h2 align="center"> 👋 Olá! Eu sou Lilian Carvalho Tavares </h2>
-
-<p align="center">
-  Desenvolvedora backend com sólida experiência fullstack, apaixonada por construir soluções eficientes, escaláveis e de alta qualidade.
-</p>
-
 <table>
     <tr>
-      <td width="50%">
     <p align="left">
         Com uma base técnica sólida em desenvolvimento fullstack, atualmente foco minha atuação na construção de aplicações robustas no backend, utilizando tecnologias como <strong>Java</strong> e <strong>Spring Boot</strong>. Tenho experiência prática em todo o ciclo de desenvolvimento de software — da modelagem de APIs ao deploy e manutenção em produção.
         Além do backend, também possuo vivência significativa com ferramentas e frameworks do frontend moderno, o que me permite ter uma visão completa das aplicações e colaborar melhor com diferentes times.
       </p>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liliantavarez&locale=en&hide_title=true&layout=compact&card_width=460&langs_count=3&theme=dark&hide_border=true&order=2&hide=html,css" alt="languages graph"  />
-      </td>
     </tr>
 </table>
 
@@ -127,7 +117,7 @@
 ## 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/liliantavarez/)
-- 📧 Email: [liliancarvalhotavares@email.com](mailto:liliancarvalhotavares@email.com)
+- 📧 Email: [liliancarvalhotavares@gmail.com](mailto:liliancarvalhotavares@gmail.com)
 
 ---
 
